@@ -40,7 +40,7 @@ Per-class highlights (mAP@50): strongest are Goggles (96.5%), Ladder (96.4%) and
 
 ```
 safelens/
-├── Day-1.ipynb              # Kaggle training notebook
+├── ppe-training.ipynb              # Kaggle training notebook
 ├── backend/
 │   ├── best.pt              # trained model weights
 │   ├── main.py              # FastAPI app: GET / and POST /detect
